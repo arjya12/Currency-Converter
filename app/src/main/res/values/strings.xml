@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string-array name="languages">
+        <item>BDT</item>
+        <item>USD</item>
+        <item>CAD</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
